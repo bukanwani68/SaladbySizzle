@@ -1,0 +1,9 @@
+body {
+    height: 100vh;  /* Setinggi viewport */
+    justify-content: center;  /* Pusatkan secara horizontal */
+    align-items: center;      /* Pusatkan secara vertikal */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
